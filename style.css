@@ -1,0 +1,63 @@
+*{
+    overflow: hidden;
+    
+}
+.design>.d1,
+.design>.d2{
+        position: absolute;
+}
+.title{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(300, 43%, 22%);
+
+}
+.describe{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    
+}
+.image{
+    float: left;
+    margin-left: 10px;
+}
+.stars{
+    float: left;
+    margin-left: 30px;
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 7px;
+    
+}
+.card-body>img{
+    float: left;
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.name{
+    position: relative;
+    left: 20px;
+    top: 15px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+
+}
+.certificate{
+    position: relative;
+    left: 20px;
+    top: 7px;
+    color: hsl(300, 38%, 45%) ;
+    font-size: 18px;
+
+}
+.content{
+    margin-left: 15px;
+    margin-top: 35px;
+    
+}
